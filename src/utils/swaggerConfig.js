@@ -12,6 +12,7 @@ const swaggerOptions = {
     servers: [
       {
         url: 'http://localhost:3000',
+        url: 'https://deploy-proyecto-sakila-production.up.railway.app'
       },
     ],
     components: {
